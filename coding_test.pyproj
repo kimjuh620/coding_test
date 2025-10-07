@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>428c1afd-e833-4ca9-a1e4-2dc3828371df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>greedy\ex1.py</StartupFile>
+    <StartupFile>greedy\example.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="greedy\ex1.py" />
+    <Compile Include="greedy\example.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="greedy\" />
