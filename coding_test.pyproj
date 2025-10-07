@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="greedy\example.py" />
+    <Compile Include="greedy\exercise1.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="greedy\" />
