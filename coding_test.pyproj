@@ -24,6 +24,8 @@
   <ItemGroup>
     <Compile Include="greedy\example.py" />
     <Compile Include="greedy\exercise1.py" />
+    <Compile Include="greedy\exercise2.py" />
+    <Compile Include="greedy\exercise3.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="greedy\" />
