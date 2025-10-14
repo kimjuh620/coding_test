@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>428c1afd-e833-4ca9-a1e4-2dc3828371df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>greedy\example.py</StartupFile>
+    <StartupFile>greedy\3-1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,18 +22,21 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DFS\test.py" />
-    <Compile Include="greedy\example.py" />
-    <Compile Include="greedy\exercise1.py" />
-    <Compile Include="greedy\exercise2.py" />
-    <Compile Include="greedy\exercise3.py" />
-    <Compile Include="implementation\example1.py" />
-    <Compile Include="implementation\example2.py" />
+    <Compile Include="DFS_BFS\5-11.py" />
+    <Compile Include="DFS_BFS\5-10.py" />
+    <Compile Include="greedy\3-1.py" />
+    <Compile Include="greedy\3-2.py" />
+    <Compile Include="greedy\3-3.py" />
+    <Compile Include="greedy\3-4.py" />
+    <Compile Include="implementation\4-1.py" />
+    <Compile Include="implementation\4-2.py" />
+    <Compile Include="implementation\4-3.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="greedy\" />
-    <Folder Include="DFS\" />
+    <Folder Include="DFS_BFS\" />
     <Folder Include="implementation\" />
+    <Folder Include="BFS\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
