@@ -24,6 +24,7 @@
   <ItemGroup>
     <Compile Include="DFS_BFS\5-11.py" />
     <Compile Include="DFS_BFS\5-10.py" />
+    <Compile Include="test.py" />
     <Compile Include="greedy\3-1.py" />
     <Compile Include="greedy\3-2.py" />
     <Compile Include="greedy\3-3.py" />

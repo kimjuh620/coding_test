@@ -43,10 +43,7 @@ graph = []
 for i in range(n):
     graph.append(list(map(int, input())))
 
-graph_cp = graph[:]
-print(graph_cp)
 
-# DFS 풀이
 def dfs(x, y):
     if x <= -1 or x >= n or y <= -1 or y >= m:
         return False
@@ -70,5 +67,3 @@ for i in range(n):
             result += 1
 
 print(result)
-
-print(graph_cp)
